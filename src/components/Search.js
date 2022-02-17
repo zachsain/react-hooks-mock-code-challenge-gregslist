@@ -1,5 +1,7 @@
 import React from "react";
 
+//need to get a value of search
+
 function Search() {
   function handleSubmit(e) {
     e.preventDefault();
